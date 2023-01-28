@@ -1,0 +1,31 @@
+### Module positions - created on Sat Jan 28 16:42:08 2023 ###
+### Printed by Pcbnew version (6.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                                           PosX       PosY       Rot  Side
+C1        100n          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    11.8629    42.6720    0.0000  top
+C2        100n          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    17.3736    32.3839   90.0000  top
+C3        1u            C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    16.0782    32.3839   90.0000  top
+C4        100n          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    17.5779    34.7980  180.0000  top
+C7        10u           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    18.5928    32.3839   90.0000  top
+C8        10n           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    12.9529    20.9550  180.0000  top
+C12       100n          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    16.1036    10.6426  180.0000  top
+C13       100n          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    16.1356    12.4206  180.0000  top
+C14       100n          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    16.1356    14.4526  180.0000  top
+C15       100n          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    16.1356    16.6116  180.0000  top
+R1        27            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    14.6304    33.4010   90.0000  top
+R2        27            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    13.3604    33.4245   90.0000  top
+R3        1k            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder     8.3839    45.0850  180.0000  top
+R4        DNF           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder     8.3839    42.6720    0.0000  top
+R5        4k7           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    11.1252     8.1280   90.0000  top
+R6        4k7           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    13.6352     8.1280   90.0000  top
+RN1       R_Pack04      R_Array_Convex_4x0603                           6.2374    38.1000    0.0000  top
+RN2       R_Pack04      R_Array_Convex_4x0603                           6.2374    33.6550    0.0000  top
+RN3       R_Pack04      R_Array_Convex_4x0603                           6.2374    29.2100    0.0000  top
+RN4       R_Pack04      R_Array_Convex_4x0603                           6.2374    24.7650    0.0000  top
+RN5       R_Pack04      R_Array_Convex_4x0603                           6.2374    20.3200    0.0000  top
+RN6       R_Pack04      R_Array_Convex_4x0603                           6.2374    15.8750    0.0000  top
+U1        RP2040        QFN40P700X700X90-57N                           13.4874    26.6700    0.0000  top
+U6        W25Q128JVS    SOIC-8W_5.3x5.3mm_P1.27mm                      13.0734    38.9890    0.0000  top
+U7        ASDMB-xxxMHz  Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm    12.7884    18.8090  180.0000  top
+## End

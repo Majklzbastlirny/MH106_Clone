@@ -1,0 +1,17 @@
+### Module positions - created on Sat Jan 28 16:42:08 2023 ###
+### Printed by Pcbnew version (6.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                                           PosX       PosY       Rot  Side
+C5        10u          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -7.6454    48.6410   90.0000  bottom
+C6        10u          C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    -5.8674    48.6410   90.0000  bottom
+C9        100n         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -15.3924    12.0650  180.0000  bottom
+C10       100n         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -15.4686    24.1300  180.0000  bottom
+C11       100n         C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   -15.3924    36.0680  180.0000  bottom
+Q1        BSS138       TSOT-23_HandSoldering                          -5.6134    12.5730   90.0000  bottom
+Q2        BSS138       TSOT-23_HandSoldering                          -5.6134     6.3500   90.0000  bottom
+U2        TPIC6C595D   SOIC127P600X175-16N                           -13.3094     6.0960  180.0000  bottom
+U3        TPIC6C595D   SOIC127P600X175-16N                           -13.3094    18.1610  180.0000  bottom
+U4        TPIC6C595D   SOIC127P600X175-16N                           -13.3094    30.2260  180.0000  bottom
+U5        AMS1117-3.3  SOT-223-3_TabPin2                              -7.7724    42.4180  -90.0000  bottom
+## End
