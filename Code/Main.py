@@ -7,6 +7,7 @@
 #Description:
 #This code is intended to emulate MH106 clock IC with micropython and RP2040. It can display time (HH:MM:SS), Date/Calendar (DD.MM.YYY), Stopwatch (MM:SS:MS / HH:MM:SS after minute overflow) and Alarm
 #It has 12 input pins and 26 output pins, 24 driven by three TPIC6C595 shift registers in series and 2 driven by 2 N channel mosfets.
+#Using both cores. Core 0 is used for reading inputs and writing outputs, core 1 is used handling time and other tasks.
 
 #Pin assignments:
 #OUTPUTS:
@@ -57,7 +58,8 @@ SHIFT_RCK = machine.Pin(16, machine.Pin.OUT) #register clock
 SHIFT_SRCK = machine.Pin(15, machine.Pin.OUT) #shift register clock
 SHIFT_DATA = machine.Pin(17, machine.Pin.OUT) #serial data
 
-
+#I2C
+i2c = machine.I2C(0, scl=machine.Pin(21), sda=machine.Pin(20), freq=400000)
 
 
 
